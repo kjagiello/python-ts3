@@ -12,7 +12,7 @@ Install
 
 Download the most recent sourcecode and install it::
 
-	git clone git://github.com/Balon/python-ts3.git
+	git clone git://github.com/nikdoof/python-ts3.git
 	cd python-ts3
 	python setup.py install # sudo this
 
